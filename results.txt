@@ -3,3 +3,8 @@ Date of Test: 2023-12-03 10:01:45
 Bubble Sort Time: 3.586007 seconds
 Quick Sort Time: 0.010075 seconds
 
+Computer Name: DESKTOP-SEAH4UH
+Date of Test: 2023-12-03 20:37:38
+Bubble Sort Time: 10.804094 seconds
+Quick Sort Time: 0.040004 seconds
+
