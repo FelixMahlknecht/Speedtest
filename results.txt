@@ -1,0 +1,5 @@
+Computer Name: Computer
+Date of Test: 2023-12-03 10:01:45
+Bubble Sort Time: 3.586007 seconds
+Quick Sort Time: 0.010075 seconds
+
